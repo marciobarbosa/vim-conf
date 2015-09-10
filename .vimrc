@@ -24,3 +24,7 @@ set modeline
 set ls=2
 " colorscheme
 colorscheme molokai
+hi cCustomFunc     ctermfg=41    guifg=#00d75f
+hi cInclude        ctermfg=204   guifg=#ff5f87
+hi cDefine         ctermfg=204   guifg=#ff5f87
+hi cPreCondit      ctermfg=204   guifg=#ff5f87
