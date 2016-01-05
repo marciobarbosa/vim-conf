@@ -9,8 +9,6 @@ set textwidth=80
 set title
 set tabstop=8
 set shiftwidth=4
-set softtabstop=4
-set expandtab
 " syntax
 syntax on
 " support 256 colors in Lion terminal 
@@ -30,3 +28,4 @@ hi cDefine         ctermfg=204   guifg=#ff5f87
 hi cPreCondit      ctermfg=204   guifg=#ff5f87
 ino jj <esc>
 vno v  <esc>
+nmap <CR><CR> O<ESC>o

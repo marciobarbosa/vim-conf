@@ -330,7 +330,7 @@ hi def link cFormat             cSpecial
 hi def link cCppString          cString
 hi def link cCommentL           cComment
 hi def link cCommentStart       cComment
-hi def link cLabel              Label
+hi def link cLabel              Conditional
 hi def link cUserLabel          Label
 hi def link cConditional        Conditional
 hi def link cRepeat             Repeat
